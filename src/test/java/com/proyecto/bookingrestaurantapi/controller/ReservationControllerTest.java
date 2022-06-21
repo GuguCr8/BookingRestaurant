@@ -20,7 +20,7 @@ import com.proyecto.bookingrestaurantapi.services.ReservationService;
 public class ReservationControllerTest {
 	
 	
-	private static final String SUCCES_STATUS = "SUCCES";
+	private static final String SUCCES_STATUS = "Succes";
 	private static final String SUCCES_CODE = "200 OK";
 	private static final String OK = "OK";
 	
